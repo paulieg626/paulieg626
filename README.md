@@ -1,3 +1,4 @@
+![:D](https://raw.githubusercontent.com/paulieg626/paulieg626/main/42960606.png)
 # Hi there 👋
 
 #### My projects
