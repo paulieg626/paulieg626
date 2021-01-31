@@ -2,10 +2,10 @@
 # Hi there 👋
 
 #### My projects
-###### public
+```public```
 - [CheatMod for Mindustry](https://github.com/paulieg626/Cheat)
 - [MMC Site](https://github.com/paulieg626/mindustry.mod.create)
-###### private
+```private```
 - [MMC Project🔒[private]](https://github.com/paulieg626/MindustryModCreate)
 
 #### My accounts
